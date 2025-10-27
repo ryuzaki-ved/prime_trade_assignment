@@ -1,0 +1,3 @@
+Binary_Variable,Correlation,P-value,Significant
+Win/Loss,0.11883859044539535,6.128524233089824e-113,True
+Win vs Trade_Size,-0.009983806721073102,0.05866522300145273,False

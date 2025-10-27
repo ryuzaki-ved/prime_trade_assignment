@@ -1,0 +1,6 @@
+Hypothesis,Test,t-statistic,p-value,Significant,Mean_Group1,Mean_Group2
+H1: Higher activity during extreme sentiment,Independent T-test,-0.2534684998276735,0.8004545770145427,False,212.94230769230768,233.87735849056602
+H2: Higher profitability during fear,ANOVA,4.4628655126000645,0.011535682681690895,True,110.13433276968202,104.45400947327342
+H3: Larger trades during greed,Independent T-test,-4.232588270148464,2.3169314653999584e-05,True,4450.6607834673605,5511.246131522074
+H4: Win rate differs across sentiment,Chi-square,888.1442871568755,6.170905420974583e-191,True,,
+H5: Contrarians outperform followers,Independent T-test,10.529266474789237,6.952123428749798e-26,True,174.7153136761832,24.177750821487596
